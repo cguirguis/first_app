@@ -1,0 +1,15 @@
+--- 
+cursor_positions: 
+  - :path: db/seeds.rb
+    :cursor_offset: 0
+    :timestamp: 2012-06-15 01:16:29.248000 -07:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 235
+    :timestamp: 2012-06-15 01:16:27.057000 -07:00
+  - :path: Gemfile
+    :cursor_offset: 191
+    :timestamp: 2012-06-15 01:29:53.074000 -07:00
+  - :path: .gitignore
+    :cursor_offset: 219
+    :timestamp: 2012-06-15 01:58:23.588000 -07:00
+files_to_retain: 0
